@@ -60,6 +60,8 @@ gem 'statsd-instrument', '~> 2.1'
 gem 'twitter-text', '~> 1.14'
 gem 'tzinfo-data', '~> 1.2017'
 gem 'webpacker', '~> 2.0'
+gem 'ruby-bbcode'
+
 
 group :development, :test do
   gem 'fabrication', '~> 2.16'
